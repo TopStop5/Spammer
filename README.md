@@ -17,6 +17,8 @@ Download the ZIP file and extract it to your desktop
 
 Open the zip file and then type 'cmd' into the adressbar and press enter.
 
+Install pip by typing `C:> py -m ensurepip --upgrade` & then after that type `py get-pip.py`
+
 Type `pip install pyautogui` and press enter. Pyautogui should now install and you're ready to begin!
 
 ### Linux
@@ -27,6 +29,8 @@ Open the ZIP file
 
 Open terminal and change the directory to `.\Desktop\Python Spam\`
 
+Install pip by typing `python -m ensurepip --upgrade` & then `python get-pip.py`
+
 Type `sudo pip3 install pyautogui` and press enter. Pyautogui should now insall and you're ready to begin!
 
 ### MacOS
@@ -34,6 +38,8 @@ Type `sudo pip3 install pyautogui` and press enter. Pyautogui should now insall 
 Download the ZIP file and extract it to your desktop
 
 Open the ZIP file 
+
+Install pip by typing `python -m ensurepip --upgrade` & then `python get-pip.py`
 
 Open terminal and type `cd .\Desktop\`
 
