@@ -7,7 +7,7 @@ This Scipt Was made by Clicks#8882 for fun. Do not use it to spam discord server
 [Latest Version of Python](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
 
 
-[PyAuto GUI](https://pypi.org/project/PyAutoGUI/)
+[PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
 
 ## Installation Process
 
