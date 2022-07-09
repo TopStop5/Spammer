@@ -6,6 +6,7 @@ This Scipt Was made by Clicks#8882 for fun. Do not use it to spam discord server
 ## Requriements
 [Latest Version of Python](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
 
+Latest Version of PIP
 
 [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
 
